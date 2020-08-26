@@ -21,4 +21,4 @@ services:
 #    generateValue: true
 databases:
 - name: hasura
-- region: frankfurt
+  region: frankfurt
